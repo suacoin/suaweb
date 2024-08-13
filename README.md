@@ -72,4 +72,5 @@ If you encounter any issues or have feature requests, please file an issue on th
 ## Links
 
 - GitHub Repository: https://github.com/suacoin/suaweb
+- NPM Package: https://www.npmjs.com/package/suaweb
 - Suatokens Website: https://www.suatokens.com

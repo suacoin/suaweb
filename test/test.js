@@ -1,4 +1,4 @@
-import Suatokens from '../suatokens.js';
+import Suatokens from 'suaweb';
 
 const suatokens = new Suatokens();
 

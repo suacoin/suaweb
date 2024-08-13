@@ -1,0 +1,29 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.7.3"
+  },
+  "name": "suaweb",
+  "version": "1.0.0",
+  "description": "JavaScript SDK that encapsulates the Suatokens HTTP API",
+  "main": "suatokens.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suacoin/suaweb.git"
+  },
+  "keywords": [
+    "SUA",
+    "SUACOIN",
+    "SUATOKENS"
+  ],
+  "author": "Suacoin Developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suacoin/suaweb/issues"
+  },
+  "homepage": "https://github.com/suacoin/suaweb#readme"
+}
